@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/unknown/gymnasium-active-vision#readme"
-Issues = "https://github.com/unknown/gymnasium-active-vision/issues"
-Source = "https://github.com/unknown/gymnasium-active-vision"
+Documentation = "https://github.com/Niko32/gymnasium-active-vision#readme"
+Issues = "https://github.com/Niko32/gymnasium-active-vision/issues"
+Source = "https://github.com/Niko32/gymnasium-active-vision"
 
 [tool.hatch.version]
 path = "src/gymnasium_active_vision/__about__.py"
