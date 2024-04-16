@@ -24,7 +24,9 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = []
+dependencies = [
+  "gymnasium >= 0.29.1"
+]
 
 [project.urls]
 Documentation = "https://github.com/Niko32/gymnasium-active-vision#readme"
